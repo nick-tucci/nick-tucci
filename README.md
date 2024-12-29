@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Hi! I'm Nick, a self taught Data Analyst with an interest in transforming raw data into insights.
+
+I am skilled in SQL and Excel.  Below are some of the projects I have completed.
+  
 <!--
 **nick-tucci/nick-tucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
