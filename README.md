@@ -3,7 +3,7 @@
 Hi! I'm Nick, a Data Analyst with an interest in transforming raw data into insights.
 
 🌱 I am skilled in SQL and Excel.  I enjoy learning new technologies and deepening my expertise in those I already know.  
-😄 Outside the tech world I enjoy spending time outside, hiking, canoeing, snowboarding, reading, exercising, playing video games, and reading.
+😄 Outside the tech world I enjoy spending time outside, hiking, canoeing, snowboarding, exercising, playing video games, and reading.
 
 Thank you for visiting my page. Below are some of the SQL projects I have completed.
 
